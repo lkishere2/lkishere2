@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXFpZ3J6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxS06DkVfG/giphy.gif" width="200px" alt="Miku Dancing">
-  <p><i>Miku is cheering for my backend deploys!</i></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/i3iy69ZTzh2Scc5bKH/giphy.gif" width="200" alt="Potato Dancing">
+  <p><i>The potato is cheering for my backend deploys!</i></p>
 </div>
 
 ## My Contribution
