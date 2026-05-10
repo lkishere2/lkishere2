@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mayu-0/Mayu-0/main/assets/miku-dance.gif" width="200px" alt="Miku Dancing">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXFpZ3J6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxS06DkVfG/giphy.gif" width="200px" alt="Miku Dancing">
   <p><i>Miku is cheering for my backend deploys!</i></p>
-  <br/>
+</div>
 
 ## My Contribution
 
