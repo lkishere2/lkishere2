@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Contribution
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mayu-0/Mayu-0/main/assets/miku-dance.gif" width="200px" alt="Miku Dancing">
+  <p><i>Miku is cheering for my backend deploys!</i></p>
+  <br/>
+
+## My Contribution
 
 <div align="center">
   <picture>
