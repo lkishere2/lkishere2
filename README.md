@@ -1,12 +1,19 @@
-
-
 ## Hi there 👋
 
 <h1 style="color: #FFD700;"><b>✨ Welcome to my repository ✨</b></h1>
 
-<img src="https://media.giphy.com/media/QYdJh32YqqKJBPF0wW/giphy.gif" alt="Hello GIF" height="40" align="absmiddle" />
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=How're+you+today%3F" alt="Typing SVG" align="absmiddle" /></a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://media.giphy.com/media/QYdJh32YqqKJBPF0wW/giphy.gif" alt="Hello GIF" height="300">
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=How're+you+today%3F" alt="Typing SVG" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 **lkishere2/lkishere2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
