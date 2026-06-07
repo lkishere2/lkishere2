@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<h1 style="color: #FFD700;"><b>✨ Welcome to my repository ✨</b></h1>
-
+<h1 style="color: #FFD700;"><b>Welcome to my repository</b></h1>
 <table>
   <tr>
     <td align="center" valign="middle">
@@ -15,20 +13,10 @@
   </tr>
 </table>
 
-<!--
-**lkishere2/lkishere2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 I'm currently a first-year Informatics student at University of Engineering and Technology, VNU
+- 👯 I'm looking to collaborate on Software Engineering projects — anything from web apps to whatever sounds interesting
+- 😄 Pronouns: they/them
 
 ## My Contribution
 <div align="center">
