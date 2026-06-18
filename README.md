@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,postgres,mongodb,redis,docker,git,github,vscode,idea,pycharm" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,spring,fastapi,postgres,mongodb,redis,docker,git,github,vscode" />
   </a>
 </p>
 
