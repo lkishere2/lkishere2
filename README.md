@@ -5,13 +5,6 @@
 - 👯 I'm looking to collaborate on Software Engineering projects — anything from web apps to whatever sounds interesting
 - 😄 Pronouns: they/them
 
-## 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md" />
-  </a>
-</p>
-
 ## My Contribution
 <div align="center">
   <table>
