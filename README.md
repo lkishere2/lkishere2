@@ -1,17 +1,4 @@
 ## Hi there 👋
-<h1 style="color: #FFD700;"><b>Welcome to my repository</b></h1>
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://media.giphy.com/media/QYdJh32YqqKJBPF0wW/giphy.gif" alt="Hello GIF" height="300">
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=How're+you+today%3F" alt="Typing SVG" height="40">
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## About Me
 - 🎓 I'm currently a Informatics student at University of Engineering and Technology, VNU
@@ -21,7 +8,7 @@
 ## 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,spring,fastapi,postgres,mongodb,redis,docker,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=md" />
   </a>
 </p>
 
