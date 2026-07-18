@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## About Me
-- 🎓 I'm currently a Informatics student at University of Engineering and Technology, VNU
-- 👯 I'm looking to collaborate on Software Engineering projects — anything from web apps to whatever sounds interesting
+- 🎓 I'm currently an Informatics student at University of Engineering and Technology, VNU
+- 👯 I'm looking to collaborate on Software Engineering projects — anything sounds interesting
 - 😄 Pronouns: they/them
 
 ## My Contribution
